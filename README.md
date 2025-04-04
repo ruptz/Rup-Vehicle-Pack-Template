@@ -11,6 +11,4 @@ version '1.0.0'
 files {
 	'data/**/*.meta',
 }
-
-client_script 'vehicle_names.lua' #You dont nec need this
 ```
